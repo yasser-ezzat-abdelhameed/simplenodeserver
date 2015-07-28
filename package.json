@@ -1,0 +1,24 @@
+{
+  "name": "simplenodeserver",
+  "version": "1.0.0",
+  "description": "This is a very simple node server, first p01 in the course.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/yasser-ezzat-abdelhameed/simplewebserver.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Yasser Ezzat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasser-ezzat-abdelhameed/simplewebserver/issues"
+  },
+  "homepage": "https://github.com/yasser-ezzat-abdelhameed/simplewebserver"
+}
